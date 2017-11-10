@@ -7,13 +7,5 @@
 
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="zeynab push_again"
-        android:id="@+id/textView3"
-
-        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
