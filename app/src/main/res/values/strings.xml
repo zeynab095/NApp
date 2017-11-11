@@ -3,4 +3,12 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="meters">
+        <item>100m</item>
+        <item>150m</item>
+        <item>200m</item>
+        <item>250m</item>
+        <item>300m</item>
+
+    </string-array>
 </resources>
