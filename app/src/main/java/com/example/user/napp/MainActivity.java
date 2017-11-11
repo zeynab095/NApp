@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void goToInputPage(View view) {
-        Intent intent1  =new Intent(this, Start.class);
+        Intent intent1  = new Intent(this, Start.class);
         startActivity(intent1);
 
     }
